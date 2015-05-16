@@ -1,0 +1,23 @@
+inventory-size: 36
+inventory-name: §d§l§oBungee Navigation
+
+items:
+  compass:
+    name: §cNavigator
+    lore:
+      - §a§lClick §7to navigate
+      - §7through servers.
+
+servers:
+  lobby:
+    name: §6§lLobby
+    item: 1
+    slot: 5
+    ip: localhost
+    port: 25565
+  survival:
+    name: Survival
+    item: 351
+    slot: 6
+    ip: localhost
+    port: 25567

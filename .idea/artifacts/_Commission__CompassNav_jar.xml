@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="[Commission] CompassNav:jar">
+    <output-path>$PROJECT_DIR$/../../Servers/NovaUniverse Servers/Survival/plugins</output-path>
+    <root id="archive" name="[Commission] CompassNav.jar">
+      <element id="module-output" name="[Commission] CompassNav" />
+    </root>
+  </artifact>
+</component>
